@@ -1,0 +1,3 @@
+interface ActionEvent {
+  type: string;
+}
